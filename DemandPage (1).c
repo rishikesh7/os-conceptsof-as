@@ -37,10 +37,10 @@ int main()
 	
 		printf("page fault access time is more than %ld",teaccess);
      }
-     
+    getch(); 
      return 1;
 	
- getch();	
+ 	
 
 }
 
